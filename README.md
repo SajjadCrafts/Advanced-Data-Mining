@@ -3,7 +3,6 @@
 ## Data Collection, Cleaning, and Exploration
 
 **Dataset:** Clickstream Data for Online Shopping (UCI ML Repository, ID 553)
-**Author:** *[your name]*
 **Notebook:** `Deliverable_1_Clickstream.ipynb`
 
 ---
